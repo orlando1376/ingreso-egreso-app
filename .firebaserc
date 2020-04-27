@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-app-879e3": {
+      "hosting": {
+        "ingresoEgregoApp": [
+          "ingreso-egreso-app-879e3"
+        ]
+      }
+    }
+  }
+}
